@@ -1,0 +1,10 @@
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.26
+plotly>=5.18
+xarray>=2024.1
+netCDF4>=1.6
+scikit-learn>=1.4
+reportlab>=4.0
+requests>=2.31
+tqdm>=4.66

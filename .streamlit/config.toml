@@ -1,0 +1,15 @@
+# Streamlit 全局主题：深海蓝色调
+[theme]
+base = "dark"
+primaryColor = "#29B6F6"
+backgroundColor = "#0A1930"
+secondaryBackgroundColor = "#12294D"
+textColor = "#E8F1FA"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200
+
+[client]
+# 隐藏右上角英文 Deploy 按钮等工具栏元素
+toolbarMode = "minimal"
