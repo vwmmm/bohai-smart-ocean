@@ -8,4 +8,4 @@ scikit-learn==1.9.1
 reportlab==5.1.0
 requests==2.34.2
 tqdm==4.70.1
-pyarrow==26.0.0
+pyarrow<25
